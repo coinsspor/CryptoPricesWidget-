@@ -1,3 +1,7 @@
+
+![image](https://github.com/coinsspor/CryptoPricesWidget-/assets/38142283/680d5d82-dc75-48c2-a500-c7f09ed5fce4)
+
+
 #ENGLISH
 This Python script creates a desktop widget for monitoring cryptocurrency prices using the Tkinter library. It can be broadly categorized into three main functionalities: Main Widget Interface, Menu Options, and Alarm Functions.
 
